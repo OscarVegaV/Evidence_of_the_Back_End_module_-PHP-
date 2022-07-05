@@ -1,0 +1,27 @@
+#main{
+  margin-top: 100px;
+}
+.main-login{
+  max-width: 300px;
+  margin: 0 auto;
+}
+.input-group{
+  margin-top: 10px;
+}
+.titulo-pelicula{
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+.card-header{
+  background-color: #e95420;
+  color: #fff;
+}
+.u-size-100{
+  width: 100px;
+  text-align: center;
+}
+.main-form{
+  max-width: 500px;
+  margin: 0 auto;
+}
